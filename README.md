@@ -7,5 +7,6 @@
   - Vim
   - Sublimation
   - The 72 Earthly Transformations
+  - Convergent Evolution
 
 Vibe coding is obsolete. it's time to aura code.
